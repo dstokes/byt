@@ -1,4 +1,4 @@
-byte
+byt
 ====
 
 Convert arbitrary unit strings into byte counts.
