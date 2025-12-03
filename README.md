@@ -3,7 +3,7 @@ byt
 
 Convert arbitrary unit strings into byte counts.
 
-[![Build Status](https://travis-ci.org/dstokes/byt.png)](https://travis-ci.org/dstokes/byt)  
+[![CI](https://github.com/dstokes/byt/actions/workflows/ci.yml/badge.svg)](https://github.com/dstokes/byt/actions/workflows/ci.yml)  
 [![NPM](https://nodei.co/npm/byt.png?downloads=true)](https://nodei.co/npm/byt/)  
 
 example
